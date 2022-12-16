@@ -1,4 +1,4 @@
-Instructions to use the bullethell engine.
+## Instructions to use the bullethell engine.
 
 1st: Install URP (Universal rendering pipeline), this is optional HOWEVER you would need to comment out ALL recolouring logic and replace all sprite materials.
 
