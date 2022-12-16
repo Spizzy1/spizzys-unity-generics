@@ -1,3 +1,5 @@
+## Instructions for how to settup the dialouge system
+
 Put the "DialougeUI" in the "Dialouge Box" field on the DialougeManager.
 Put the "Dialouge text" in the "Text" field.
 and put the "dialougeImage" in the "Image" field.
